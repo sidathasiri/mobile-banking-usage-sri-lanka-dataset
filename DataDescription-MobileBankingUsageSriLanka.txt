@@ -1,0 +1,30 @@
+This dataset contains data related to mobile banking users of Sri Lanka. Data is collected through a distributed questionnaire.
+
+Number of instances: 187
+Number of attributes: 21
+
+Attribute Information
+
+Timestamp: Data time when the user submitted the response
+Gender: Gender
+Age: Age
+District: District where the user is located
+Marital_status: Marital status
+Education: Highest education level
+Employment: Employment of user
+Income: Monthly income of the user in Sri Lankan Rupees (NA when the user has no job)
+Account type: Types of bank accounts the user has
+Mobile_banking_app_count: # mobile banking apps the user uses from different banks
+Bank_type: Type of bank that provides mobile banking services
+Period: The period of using the banking app
+Services: Different services consumed by the user in the app
+Motivation: The motivation caused to use of mobile banking
+Large_transactions: Willingness to pay large transactions (more than Rs. 100,000)
+Frequency: Frequency of the app is used in a month
+ATM_withdrawal: Average amount of money withdrawn from ATM per month
+Security_rating: Rating of security mechanisms in the app
+Additional_charges: Rating on additional charges
+Reason: Reasons for still using the app even changes are unfair
+Rating: overall rating
+
+Contact: sidathasiri@gmail.com

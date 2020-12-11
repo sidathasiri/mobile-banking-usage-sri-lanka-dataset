@@ -2,7 +2,7 @@
 
 This dataset contains data related to mobile banking users of Sri Lanka. Data is collected through a distributed questionnaire.
 
-- Number of instances: 187
+- Number of instances: 186
 - Number of attributes: 21
 
 Attribute Information
